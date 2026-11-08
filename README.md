@@ -23,9 +23,6 @@ It intelligently detects added functions, classes, UI changes, documentation upd
   - Number of files changed
 - Generates professional Conventional Commit messages like:
 
-```bash
-feat: add UserService class
-
 Changes: +45 -12 lines
 
 . Shows quick project stats
